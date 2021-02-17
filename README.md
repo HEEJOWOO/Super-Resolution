@@ -27,7 +27,7 @@
 #### 18.DBPN & D-DBPN(Deep Back-Projection Networks For Super-Resolution) : https://arxiv.org/abs/1803.02735
 #### 19.RDN(Residual Dense Network for Image Super-Resolution) : https://arxiv.org/abs/1802.08797
 #### 20.RCAN(Image Super-Resolution Using Very Deep Residual Channel Attention Networks) : https://arxiv.org/abs/1807.02758 
-
+#### 20.AWSRN(Adaptive Weighted Super Resolution)[https://arxiv.org/abs/1904.02358]
 
 
 

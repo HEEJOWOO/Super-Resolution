@@ -30,7 +30,7 @@
 #### 21.AWSRN(Adaptive Weighted Super Resolution) : https://arxiv.org/abs/1904.02358
 #### 22.CARN(Fast, Accurate, and Lightweight Super-Resolution with Cascading Residual Network) : https://arxiv.org/abs/1803.08664
 #### 23.IMDN(Lightweight Image Super-Resolution with Information Multi-distillation Network) : https://arxiv.org/abs/1909.11856
-#### 24.SRFBN(Feedback Network for Image Super-Resolution)[https://arxiv.org/abs/1903.09814]
+#### 24.SRFBN(Feedback Network for Image Super-Resolution) : https://arxiv.org/abs/1903.09814
 
 
 

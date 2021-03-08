@@ -31,7 +31,7 @@
 #### 22.CARN(Fast, Accurate, and Lightweight Super-Resolution with Cascading Residual Network) : https://arxiv.org/abs/1803.08664
 #### 23.IMDN(Lightweight Image Super-Resolution with Information Multi-distillation Network) : https://arxiv.org/abs/1909.11856
 #### 24.SRFBN(Feedback Network for Image Super-Resolution) : https://arxiv.org/abs/1903.09814
-
+#### 25.CBPN(Compact Back-Projection Network) : https://www.semanticscholar.org/paper/Efficient-Single-Image-Super-Resolution-via-Hybrid-Zhu-Zhao/9fabdda717babe074670d754ec77281d3a70c677
 
 
 

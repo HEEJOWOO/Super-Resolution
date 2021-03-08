@@ -18,7 +18,7 @@
 : https://ieeexplore.ieee.org/document/8014876
 #### 13.ESPCN(Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network) 
 : https://arxiv.org/abs/1609.05158
-#### 14.LapSRN(Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution) : https:arxiv.org/abs/1704.03915
+#### 14.LapSRN(Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution) : https://arxiv.org/abs/1704.03915
 #### 15.DRCN(Deeply-Recursive Convolutional Network for Image Super-Resolution) : https://arxiv.org/abs/1511.04491
 #### 16.DRRN(Image Super-Resolution via Deep Recursive Residual Network) 
 : https://openaccess.thecvf.com/content_cvpr_2017/papers/Tai_Image_Super-Resolution_via_CVPR_2017_paper.pdf

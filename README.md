@@ -33,7 +33,7 @@
 #### 24.SRFBN(Feedback Network for Image Super-Resolution) : https://arxiv.org/abs/1903.09814
 #### 25.CBPN(Compact Back-Projection Network) : https://www.semanticscholar.org/paper/Efficient-Single-Image-Super-Resolution-via-Hybrid-Zhu-Zhao/9fabdda717babe074670d754ec77281d3a70c677
 #### 26.RFDN(Residual Feature Distillation Network) : https://arxiv.org/abs/2009.11551
-
+#### 27.LESRCNN(Lightweight image super-resolution with enhanced CNN) : https://arxiv.org/abs/2007.04344
 
 
 

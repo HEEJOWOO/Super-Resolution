@@ -35,6 +35,6 @@
 #### 26.RFDN(Residual Feature Distillation Network) : https://arxiv.org/abs/2009.11551
 #### 27.LESRCNN(Lightweight image super-resolution with enhanced CNN) : https://arxiv.org/abs/2007.04344
 #### 28.IdleSR(Efficient Super-Resolution Network with Multi-scale IdleBlocks) : https://link.springer.com/chapter/10.1007/978-3-030-67070-2_8
-
+#### 29.PAN(Efficient Image Super-Resolution Using Pixel Attention) : https://arxiv.org/abs/2010.01073
 
 

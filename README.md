@@ -3,7 +3,7 @@
 #### <I studied while referring to various sites, but it is not enough. Thanks anytime for feedback.>
 ### <wq8336@gmail.com>
 
-#### 1.CNN(Convolutional Neural Networks) : https://arxiv.org/abs/1408.5882
+#### 1.[CNN(Convolutional Neural Networks)](https://arxiv.org/abs/1408.5882)
 #### 2.VAE(Auto-Encoding Variational Bayes) : https://arxiv.org/abs/1312.6114
 #### 3.GAN(Generative Adversial Networks) : https://arxiv.org/abs/1406.2661
 #### 4.DCGAN(Deep Convolutional Neural Networks GAN) : https://arxiv.org/abs/1511.06434

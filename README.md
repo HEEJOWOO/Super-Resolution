@@ -33,5 +33,5 @@
 #### 28.[IdleSR(Efficient Super-Resolution Network with Multi-scale IdleBlocks)](https://link.springer.com/chapter/10.1007/978-3-030-67070-2_8)
 #### 29.[PAN(Efficient Image Super-Resolution Using Pixel Attention)](https://arxiv.org/abs/2010.01073)
 #### 30.[DRLN(Densely Residual Laplacian Super-Resolution)](https://arxiv.org/abs/1906.12021)
-
+#### 31.[A2F(Lightweight Single-Image Super-Resolution Network with Attentive Auxiliary Feature Learning)](https://arxiv.org/abs/2011.06773)
 

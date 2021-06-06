@@ -34,4 +34,5 @@
 #### 29.[PAN(Efficient Image Super-Resolution Using Pixel Attention)](https://arxiv.org/abs/2010.01073)
 #### 30.[DRLN(Densely Residual Laplacian Super-Resolution)](https://arxiv.org/abs/1906.12021)
 #### 31.[A2F(Lightweight Single-Image Super-Resolution Network with Attentive Auxiliary Feature Learning)](https://arxiv.org/abs/2011.06773)
+#### 32.[WDSR(Wide Activation for Efficient and Accurate Image Super-Resolution)](https://arxiv.org/abs/1808.08718)
 
